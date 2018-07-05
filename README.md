@@ -22,7 +22,7 @@ pod 'TopController'
 
 ## Author
 
-kdv.mgn@gmail.com, dkuleshov@stream.ru
+Diego Martines,
 
 ## License
 
