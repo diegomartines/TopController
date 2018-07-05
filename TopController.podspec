@@ -30,6 +30,8 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
+  s.swift_version = '3.2'
+
   s.source_files = 'TopController/Classes/**/*'
   
   # s.resource_bundles = {
