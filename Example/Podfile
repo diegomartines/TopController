@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TopController_Example' do
+  pod 'TopController', :path => '../'
+
+  target 'TopController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
