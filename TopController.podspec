@@ -24,8 +24,8 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/kdv.mgn@gmail.com/TopController'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'kdv.mgn@gmail.com' => 'dkuleshov@stream.ru' }
-  s.source           = { :git => 'https://github.com/kdv.mgn@gmail.com/TopController.git', :tag => s.version.to_s }
+  s.author           = { 'Diego Martines' => 'kdv.mgn.work@gmail.com' }
+  s.source           = { :git => 'https://github.com/diegomartines/TopController.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

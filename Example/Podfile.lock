@@ -1,0 +1,16 @@
+PODS:
+  - TopController (0.1.0)
+
+DEPENDENCIES:
+  - TopController (from `../`)
+
+EXTERNAL SOURCES:
+  TopController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TopController: 99abca7df1ad878391374961462e4cf956c548dc
+
+PODFILE CHECKSUM: 30571f25c74fe61345c50f02b3218603495398a5
+
+COCOAPODS: 1.4.0
