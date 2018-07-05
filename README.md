@@ -22,7 +22,7 @@ pod 'TopController'
 
 ## Author
 
-Diego Martines,
+Diego Martines, dnmartines@gmail.com
 
 ## License
 
